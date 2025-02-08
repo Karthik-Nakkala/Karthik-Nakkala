@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi there 👋 I am Karthik Nakkala
 
-<!--
-**Karthik-Nakkala/Karthik-Nakkala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to to my github profile!
 
-Here are some ideas to get you started:
+#About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on basic projects
+- 🌱 I’m currently learning Fullstack Web-Development,C-programming language and always finds a Curiosity for learning new things.
+- 👯 I’m looking to collaborate on projects that relevent to my skills and for learning new things
+- 📫 How to reach me: karthik, email:karthiknakkala15@gmail.com
+- 😄 Pronouns: He & Him
+- ⚡ Fun fact: gets laugh when I was too serious.
+
+  #skills
+  --**Languages:**-c-programming Language,basic Javascript Language
+  --**Development:**-Frontend web design using Html,css(advanced),Bootstrap,Javascript
+
+  ##projects
+  
